@@ -1,4 +1,3 @@
-# build/tool caches
-/tmp/
+# local keystores must never be committed
 *.jks
 *.keystore
